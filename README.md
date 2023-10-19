@@ -1,2 +1,3 @@
-# OOP_JavaProjects
-school projects for Object Oriented Programming in Java 
+# Basketball Scoreboard
+A school project to mimic a basketball scoreboard using Java.
+I am using Swing library in these project
