@@ -1,2 +1,2 @@
-# OOP_JavaProjects
-school projects for Object Oriented Programming in Java 
+# Hello World
+My first code in Java
